@@ -5,3 +5,7 @@ doc/api
 doc/app
 coverage
 db/*.sqlite3
+*.css~
+*.html~
+*.rb~
+*.erb~
